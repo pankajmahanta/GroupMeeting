@@ -1,6 +1,11 @@
 Changed From Demo1Branch
-<<<<<<< HEAD
+
+
 Changed From DemoBranch
-=======
+
 Again Changed from Demo1
->>>>>>> server/demo1
+
+
+Again Changed from Demo1
+Again Changed from Demo1
+
