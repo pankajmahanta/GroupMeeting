@@ -1,6 +1,4 @@
-details 4
-NANDU
+detail1
+detail2
+detail3
 
-Details3
-Details5
-Details3526575
