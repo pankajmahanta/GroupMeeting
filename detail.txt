@@ -1,4 +1,0 @@
-detail1
-detail2
-detail3
-
